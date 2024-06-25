@@ -125,7 +125,7 @@ Passo 6: Configurando o grafana(Dashboard) com Prometheus
 ![](./md/grafanasearch.png)
 4.  Clique em "Add new data source". 
 ![](./md/grafanapromeadd.png)
-5.  Em Connection adicione a url do servidor do prometheus: `http://prometheus:9090`. 
+5.  Em Connection adicione a url do servidor do prometheus: `http://prometheus:9090`, no final da página clique em "Save & test" depois no menu de navegação vá para "Dashboards". 
 ![](./md/grafanapromeurl.png)
 7.  Na dashboards do grafana clique em "Create Dashboard", depois em "Add visualization" e selecione Prometheus.
 9.  Na opção Query, selecione uma métrica do Prometheus, depois em "Run queries" então em "Apply". 
