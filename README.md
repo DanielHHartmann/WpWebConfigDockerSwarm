@@ -137,4 +137,4 @@ Passo 7: Monitoramento do docker
 -----------------------------
 
 1. Como visto acima o prometheus já vem com as métricas de containeres, isso porque uma de suas dependêcias, o cadvisor. Ele por sí só já tem um acesso atráves do link  [http://localhost:8081](http://localhost:8081). Aqui você tem acesso a diferentes métricas referentes ao containeres:
-![](./md/cadivisor.png)
+![](./md/Cadivisor.png)
